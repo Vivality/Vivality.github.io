@@ -1,0 +1,107 @@
+.u-section-1 {
+  min-height: 502px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 582px;
+  margin-top: -80px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 803px;
+  height: 359px;
+  margin: -590px calc(((100% - 1140px) / 2) + -184px) 0 auto;
+}
+
+.u-section-1 .u-image-3 {
+  width: 861px;
+  height: 506px;
+  margin: -282px auto 0 calc(((100% - 1140px) / 2) + -58px);
+}
+
+.u-section-1 .u-image-4 {
+  width: 85px;
+  height: 85px;
+  margin: -486px auto 60px calc(((100% - 1140px) / 2) + 324px);
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-2 {
+    height: 230px;
+    margin-right: calc(((100% - 940px) / 2) + -184px);
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -135px;
+    margin-left: calc(((100% - 940px) / 2) + -58px);
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-left: calc(((100% - 940px) / 2) + 324px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    min-height: 419px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-right: calc(((100% - 720px) / 2) + -184px);
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 720px;
+    height: 423px;
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: -403px;
+    margin-left: calc(((100% - 720px) / 2) + 324px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    min-height: 196px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    margin-right: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 540px;
+    height: 317px;
+    margin-top: -18px;
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: -297px;
+    margin-left: calc(((100% - 540px) / 2) + 324px);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 162px;
+    margin-right: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 340px;
+    height: 200px;
+    margin-top: 71px;
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: -180px;
+    margin-left: calc(((100% - 340px) / 2) + 255px);
+  }
+}
